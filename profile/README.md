@@ -31,4 +31,4 @@
 
 ## 🔍 SEO Keywords
 
-keepassxc, keepassxc download, keepass xc setup, keepassxc install, keepass password manager, keepassxc offline, open source password manager, offline password tool, keepassxc linux, keepassxc macos, keepassxc windows, portable keepassxc, encrypted password vault, keepass database setup, keepass assistant, keepassxc no internet, cross-platform password tool, secure password storage, airgapped password manager, keepassxc local database, keepassxc config, keepassxc install without network, password manager offline assistant, keepass secure setup, offline credential manager
+keepassxc, keepassxc install, keepassxc download, keepassxc git, keepassxc 2fa, keepassxc android, keepassxc password manager, password manager keepassxc, 2fa keepassxc, bitwarden to keepassxc, chrome keepassxc, download keepass xc, fido2 keepassxc, https keepassxc org, install keepassxc, offline keepassxc installer, keepassxc secure vault, portable keepassxc version, keepassxc no internet setup, linux keepassxc install, keepassxc mac integration, keepassxc windows setup, open source password vault, encrypted database manager, local password tool
